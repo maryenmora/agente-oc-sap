@@ -1,0 +1,6 @@
+node_modules/
+out/
+evidence/
+dist/
+.env
+*.log
